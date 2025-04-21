@@ -1,1 +1,6 @@
-Dev Advocate no GitHub
+# Pachi Parra
+
+👩🏼‍💻Developer Relations & Tech Community Builder,
+🎴Tarot Reader,
+🐈‍⬛️Cat Mom,
+🔥Chaotic Good.
