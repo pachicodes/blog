@@ -4,10 +4,10 @@
     --pico-border-radius: 0;
     --neon-green: #39FF14; /* Verde Neon */
     --light-gray: #F0F0F0; /* Cinza Claro */
-    --dark-gray: #1A1A1A;  /* Cinza Escuro (para cards no modo escuro) */
-    --near-black: #111111; /* Quase Preto (para texto no modo claro) */
-    --near-white: #EAEAEA; /* Quase Branco (para texto no modo escuro) */
-    --black: #000000;      /* Preto */
+    --dark-gray: #404040;  /* Cinza Escuro (para cards no modo escuro) */
+    --near-black: #1f1f1f; /* Quase Preto (para texto no modo claro) */
+    --near-white: #797979; /* Quase Branco (para texto no modo escuro) */
+    --black: #111111;      /* Preto */
 }
 
 /* --- Light Mode --- */
