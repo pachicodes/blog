@@ -8,9 +8,6 @@ tags_title: SELECT * FROM posts GROUP BY tag
 tags_content_title: SELECT * FROM posts WHERE tag = '$tag'
 archives_title: SELECT * FROM posts GROUP BY year
 archives_content_title: SELECT * FROM posts WHERE year = '$year'
-authors_title: SELECT * FROM posts GROUP BY author
-streams_title: SELECT * FROM posts GROUP BY stream
-streams_content_title: SELECT * FROM posts WHERE stream = '$stream'
 search_title: $ grep -rl "$@" ~/
 content_path: content
 templates_path: templates
