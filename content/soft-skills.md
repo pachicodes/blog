@@ -8,7 +8,7 @@ description: "Explore as soft skills essenciais que todo desenvolvedor deve domi
 
 # Soft Skills para Devs
 
-Feliz ano novo! 
+Feliz ano novo!
 Tenho certeza de que  boa parte de vocês já tem suas resoluções prontas para 2024. Que tal adicionar Soft Skills a elas?
 
 Ser uma ótima pessoa desenvolvedora não se trata apenas de código, mas também de Soft Skills. Essas habilidades desempenham um papel de destaque na história de sucesso de uma pessoa desenvolvedora.
