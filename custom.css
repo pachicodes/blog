@@ -6,7 +6,7 @@
     --light-gray: #F0F0F0; /* Cinza Claro */
     --dark-gray: #404040;  /* Cinza Escuro (para cards no modo escuro) */
     --near-black: #1f1f1f; /* Quase Preto (para texto no modo claro) */
-    --near-white: #797979; /* Quase Branco (para texto no modo escuro) */
+    --near-white: #d0d0d0; /* Quase Branco (para texto no modo escuro) */
     --black: #111111;      /* Preto */
 }
 
