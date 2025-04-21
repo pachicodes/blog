@@ -2,8 +2,8 @@
 title: "Soft Skills para Developers"
 date: 2024-01-02
 author: "Pachicodes"
-tags: ["soft skills", "developer", "career"]
-description: "Explore essential soft skills every developer should master to excel in their career."
+tags: ["soft skills", "carreira"]
+description: "Explore as soft skills essenciais que todo desenvolvedor deve dominar para se destacar em sua carreira."
 ---
 
 # Soft Skills para Devs
