@@ -2,7 +2,7 @@
 /* picocss.com variables */
 :root {
     --pico-border-radius: 0;
-    --neon-green: #39FF14; /* Verde Neon */
+    --neon-green: #39FF14; /* Verde Neon (usado no dark mode) */
     --light-gray: #F0F0F0; /* Cinza Claro */
     --dark-gray: #404040;  /* Cinza Escuro (para cards no modo escuro) */
     --near-black: #1f1f1f; /* Quase Preto (para texto no modo claro) */
@@ -13,19 +13,20 @@
 /* --- Light Mode --- */
 [data-theme=light],
 :root:not([data-theme=dark]) {
+    --light-mode-green: #1aaf00; /* Verde mais escuro para light mode */
     --pico-background-color: var(--light-gray);
     --pico-card-background-color: #FFFFFF; /* Branco para cards */
     --pico-card-sectioning-background-color: var(--pico-background-color);
-    --pico-primary: var(--neon-green);
-    --pico-primary-hover: var(--neon-green); /* Manter a mesma cor no hover */
+    --pico-primary: var(--light-mode-green);
+    --pico-primary-hover: var(--light-mode-green); /* Manter a mesma cor no hover */
     --pico-color: var(--near-black); /* Cor do texto principal */
-    --pico-secondary: var(--neon-green); /* Usar neon para secundário também */
-    --pico-secondary-hover: var(--neon-green);
+    --pico-secondary: var(--light-mode-green); /* Usar verde mais escuro para secundário também */
+    --pico-secondary-hover: var(--light-mode-green);
     --pico-contrast: var(--near-black);
     --pico-contrast-hover: var(--black);
     --pico-tag: var(--near-black); /* Tags com texto escuro */
-    --pico-h1-color: var(--neon-green); /* Títulos em neon */
-    --pico-h2-color: var(--neon-green); /* H2 também em neon */
+    --pico-h1-color: var(--light-mode-green); /* Títulos em verde mais escuro */
+    --pico-h2-color: var(--light-mode-green); /* H2 também em verde mais escuro */
     --pico-h3-color: var(--near-black);
     --pico-h4-color: var(--near-black);
     --pico-h5-color: var(--near-black);
@@ -36,7 +37,7 @@
     --pico-table-border-color: #DCDCDC; /* Borda cinza claro para tabelas */
     --pico-form-element-background-color: #FFFFFF;
     --pico-form-element-border-color: #DCDCDC;
-    --pico-form-element-focus-color: var(--neon-green); /* Foco em neon */
+    --pico-form-element-focus-color: var(--light-mode-green); /* Foco em verde mais escuro */
     --pico-color-azure-550: var(--pico-primary); /* Manter consistência */
 }
 
@@ -63,7 +64,7 @@
     --pico-h3-color: var(--near-white);
     --pico-h4-color: var(--near-white);
     --pico-h5-color: var(--near-white);
-    --pico-h6-color: var (--near-white);
+    --pico-h6-color: var(--near-white);
     --pico-muted-color: #AAAAAA; /* Cinza claro para texto muted */
     --pico-code-background-color: var(--dark-gray); /* Fundo cinza escuro para código */
     --pico-code-color: var(--near-white); /* Texto claro para código */
@@ -97,11 +98,16 @@
     border-bottom-style: solid;
 }
 
-/* Ajuste para botões usarem neon */
+/* Ajuste para botões usarem a cor correta do modo */
 [role=button] {
     --pico-background-color: var(--pico-primary);
     --pico-border-color: var(--pico-primary);
+    /* Ajuste para contraste no light mode */
     --pico-color: var(--pico-background-color); /* Texto com a cor de fundo para contraste */
+}
+
+[data-theme=light] [role=button] {
+    --pico-color: var(--pico-card-background-color); /* Texto branco/claro no botão verde escuro */
 }
 
 [role=button]:hover, [role=button]:focus {
