@@ -25,7 +25,7 @@
     --pico-contrast-hover: var(--black);
     --pico-tag: var(--near-black); /* Tags com texto escuro */
     --pico-h1-color: var(--neon-green); /* Títulos em neon */
-    --pico-h2-color: var(--near-black);
+    --pico-h2-color: var(--neon-green); /* H2 também em neon */
     --pico-h3-color: var(--near-black);
     --pico-h4-color: var(--near-black);
     --pico-h5-color: var(--near-black);
@@ -59,7 +59,7 @@
     --pico-contrast-hover: #FFFFFF;
     --pico-tag: var(--neon-green); /* Tags em neon */
     --pico-h1-color: var(--neon-green); /* Títulos em neon */
-    --pico-h2-color: var(--near-white);
+    --pico-h2-color: var(--neon-green); /* H2 também em neon */
     --pico-h3-color: var(--near-white);
     --pico-h4-color: var(--near-white);
     --pico-h5-color: var(--near-white);
