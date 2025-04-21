@@ -1,0 +1,110 @@
+/* Marmite Hard Theme */
+/* picocss.com variables */
+:root {
+    --pico-border-radius: 0;
+    --neon-green: #39FF14; /* Verde Neon */
+    --light-gray: #F0F0F0; /* Cinza Claro */
+    --dark-gray: #1A1A1A;  /* Cinza Escuro (para cards no modo escuro) */
+    --near-black: #111111; /* Quase Preto (para texto no modo claro) */
+    --near-white: #EAEAEA; /* Quase Branco (para texto no modo escuro) */
+    --black: #000000;      /* Preto */
+}
+
+/* --- Light Mode --- */
+[data-theme=light],
+:root:not([data-theme=dark]) {
+    --pico-background-color: var(--light-gray);
+    --pico-card-background-color: #FFFFFF; /* Branco para cards */
+    --pico-card-sectioning-background-color: var(--pico-background-color);
+    --pico-primary: var(--neon-green);
+    --pico-primary-hover: var(--neon-green); /* Manter a mesma cor no hover */
+    --pico-color: var(--near-black); /* Cor do texto principal */
+    --pico-secondary: var(--neon-green); /* Usar neon para secundário também */
+    --pico-secondary-hover: var(--neon-green);
+    --pico-contrast: var(--near-black);
+    --pico-contrast-hover: var(--black);
+    --pico-tag: var(--near-black); /* Tags com texto escuro */
+    --pico-h1-color: var(--neon-green); /* Títulos em neon */
+    --pico-h2-color: var(--near-black);
+    --pico-h3-color: var(--near-black);
+    --pico-h4-color: var(--near-black);
+    --pico-h5-color: var(--near-black);
+    --pico-h6-color: var(--near-black);
+    --pico-muted-color: #555555; /* Cinza para texto muted */
+    --pico-code-background-color: #E0E0E0; /* Fundo cinza claro para código */
+    --pico-code-color: var(--near-black); /* Texto escuro para código */
+    --pico-table-border-color: #DCDCDC; /* Borda cinza claro para tabelas */
+    --pico-form-element-background-color: #FFFFFF;
+    --pico-form-element-border-color: #DCDCDC;
+    --pico-form-element-focus-color: var(--neon-green); /* Foco em neon */
+    --pico-color-azure-550: var(--pico-primary); /* Manter consistência */
+}
+
+[data-theme=light] pre:has(> code.language-mermaid) {
+    background-color: var(--pico-card-background-color); /* Fundo branco para Mermaid */
+}
+
+/* --- Dark Mode --- */
+[data-theme=dark],
+:root:not([data-theme=light]) {
+    --pico-background-color: var(--black);
+    --pico-card-background-color: var(--dark-gray); /* Cinza escuro para cards */
+    --pico-card-sectioning-background-color: var(--pico-background-color);
+    --pico-primary: var(--neon-green);
+    --pico-primary-hover: var(--neon-green); /* Manter a mesma cor no hover */
+    --pico-color: var(--near-white); /* Cor do texto principal */
+    --pico-secondary: var(--neon-green); /* Usar neon para secundário também */
+    --pico-secondary-hover: var(--neon-green);
+    --pico-contrast: var(--near-white);
+    --pico-contrast-hover: #FFFFFF;
+    --pico-tag: var(--neon-green); /* Tags em neon */
+    --pico-h1-color: var(--neon-green); /* Títulos em neon */
+    --pico-h2-color: var(--near-white);
+    --pico-h3-color: var(--near-white);
+    --pico-h4-color: var(--near-white);
+    --pico-h5-color: var(--near-white);
+    --pico-h6-color: var (--near-white);
+    --pico-muted-color: #AAAAAA; /* Cinza claro para texto muted */
+    --pico-code-background-color: var(--dark-gray); /* Fundo cinza escuro para código */
+    --pico-code-color: var(--near-white); /* Texto claro para código */
+    --pico-table-border-color: #444444; /* Borda cinza escura para tabelas */
+    --pico-form-element-background-color: var(--dark-gray);
+    --pico-form-element-border-color: #444444;
+    --pico-form-element-focus-color: var(--neon-green); /* Foco em neon */
+    --pico-color-azure-550: var(--pico-primary); /* Manter consistência */
+}
+
+[data-theme=dark] pre:has(> code.language-mermaid) {
+    background-color: var(--near-white); /* Fundo claro para Mermaid no modo escuro para melhor visibilidade */
+    /* Ou mantenha escuro se preferir: background-color: var(--dark-gray); */
+}
+
+/* Ajustes adicionais se necessário */
+.content-tags a:where(a:not([role=button])),
+[role=link] {
+    /* Remove a cor padrão do link para usar a cor primária (neon) */
+    --pico-color: var(--pico-primary);
+}
+
+/* Garante que links dentro de tags usem a cor da tag */
+.content-tags a {
+    color: var(--pico-tag);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--pico-tag);
+}
+.content-tags a:hover {
+    color: var(--pico-primary-hover);
+    border-bottom-style: solid;
+}
+
+/* Ajuste para botões usarem neon */
+[role=button] {
+    --pico-background-color: var(--pico-primary);
+    --pico-border-color: var(--pico-primary);
+    --pico-color: var(--pico-background-color); /* Texto com a cor de fundo para contraste */
+}
+
+[role=button]:hover, [role=button]:focus {
+    --pico-background-color: var(--pico-primary-hover);
+    --pico-border-color: var(--pico-primary-hover);
+}
