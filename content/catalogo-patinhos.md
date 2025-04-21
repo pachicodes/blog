@@ -1,7 +1,6 @@
 ---
 title: "Catálogo de Patinhos de Borracha 🦆: Como criamos um site Open Source com GitHub Copilot"
 date: 2025-04-08
-author: "Pachicodes"
 tags: ["Open Source", "copilot", "desenvolvimento web", "live coding"]
 description: "Descubra como criamos o 'Catálogo de Patinhos de Borracha', um site open source, usando GitHub Copilot em uma live. Veja o passo a passo do desenvolvimento web e como a IA auxiliou no processo."
 ---
