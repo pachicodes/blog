@@ -4,7 +4,15 @@ date: 2024-01-02
 tags: ["soft skills", "carreira"]
 description: "Explore as soft skills essenciais que todo desenvolvedor deve dominar para se destacar em sua carreira."
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GCP0PPYTR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-1GCP0PPYTR');
+</script>
 # Soft Skills para Devs
 
 Feliz ano novo!
