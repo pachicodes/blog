@@ -4,17 +4,9 @@ date: 2025-04-08
 tags: ["Open Source", "copilot", "desenvolvimento web", "live coding"]
 description: "Descubra como criamos o 'Catálogo de Patinhos de Borracha', um site open source, usando GitHub Copilot em uma live. Veja o passo a passo do desenvolvimento web e como a IA auxiliou no processo."
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GCP0PPYTR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-1GCP0PPYTR');
-</script>
 
-# Catálogo de Patinhos de Borracha 🦆: Como criamos um site Open Source com GitHub Copilot
+## Catálogo de Patinhos de Borracha 🦆: Como criamos um site Open Source com GitHub Copilot
 
 Inspirada pelos meus companheiros de trabalho falantes de inglês, que toda quinta-feira fazem uma live chamada *Rubber Duck Thursday*, eu resolvi criar a versão brasileira desse quadro: **Quinta do Patinho**! 💚
 

@@ -4,16 +4,8 @@ date: 2025-04-21
 tags: ["IA", "copilot", "agentes", "modelos"]
 description: "Entenda a diferença entre modelos e agentes de IA no contexto do GitHub Copilot e como eles impactam seu fluxo de trabalho."
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GCP0PPYTR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-1GCP0PPYTR');
-</script>
-# Modelos de IA vs. Agentes de IA no GitHub Copilot
+## Modelos de IA vs. Agentes de IA no GitHub Copilot
 
 Você já deve ter lido vários artigos falando sobre como a Inteligência Artificial está avançando rapidamente, né? Dá até medo!  
 Mas hoje vm falar sobre como o **GitHub Copilot** exemplifica essa mudança ao combinar **modelos de IA** e **agentes de IA** para oferecer suporte prático no dia a dia de quem programa.  
@@ -27,6 +19,7 @@ Mas qual a diferença entre esses conceitos? E como cada um pode impactar sua ex
 Os modelos de IA são a espinha dorsal do Copilot, funcionando como um "assistente" capaz de compreender e gerar código. Seu poder vem da sua gradne base de conhecimento sobre programação, treinada para responder a comandos específicos.
 
 **Características:**
+
 - Conhecimento estático baseado em dados pré-treinados  
 - Capacidade de interpretar linguagem natural e código  
 - Geração de respostas com base em padrões aprendidos  
@@ -43,6 +36,7 @@ Se você perguntar *"Como fazer um loop em Python?"*, o modelo responderá com u
 Os agentes de IA vão além do conhecimento passivo e adicionam **capacidade de ação e tomada de decisão**. Eles podem interagir diretamente com o código, modificar arquivos e até automatizar tarefas de desenvolvimento.
 
 **O que um agente pode fazer?**
+
 - Executar ações reais dentro do ambiente de programação  
 - Reter memória do contexto ao longo da interação  
 - Tomar decisões autônomas baseadas no objetivo do usuário  
@@ -57,11 +51,13 @@ Vou abrir meu VSCode e usar o seguinte prompt:
 **"Vamos criar uma API REST."**  
 Pode testar aí também!
 
-### Usando um Modelo de IA:
+### Usando um Modelo de IA
+
 No Copilot Chat, escolhemos a opção **"Perguntar"**.
 
 ![copilot com perguntar](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvurc04jdcb4jhxutcpx.png)
 **O que o modelo traz como resposta?**
+
 - Explica o conceito de API REST  
 - Fornece exemplos de código  
 - Sugere uma estrutura de arquivos  
@@ -71,7 +67,8 @@ Mas **não implementa** nada diretamente.
 Agora vamos trocar para um agente e ver como o comportamento muda:
 
 ![agente copilpt](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2a71y8ixa2u36969526t.png)
-### Usando um Agente de IA:
+
+### Usando um Agente de IA
 
 - Analisa o ambiente de desenvolvimento  
 - Cria a estrutura de diretórios  
@@ -85,6 +82,7 @@ Agora vamos trocar para um agente e ver como o comportamento muda:
 ## 4. Quando Usar Cada Um?
 
 **Modelos de IA** são ideais quando você precisa de:
+
 - Explicações conceituais  
 - Exemplos de código  
 - Esclarecimento sobre sintaxe  
@@ -92,6 +90,7 @@ Agora vamos trocar para um agente e ver como o comportamento muda:
 - Revisar conceitos  
 
 **Agentes de IA** são úteis quando é hora de:
+
 - Implementar funcionalidades completas  
 - Automatizar tarefas repetitivas  
 - Configurar ambientes de desenvolvimento  

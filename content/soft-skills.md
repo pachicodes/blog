@@ -4,16 +4,8 @@ date: 2024-01-02
 tags: ["soft skills", "carreira"]
 description: "Explore as soft skills essenciais que todo desenvolvedor deve dominar para se destacar em sua carreira."
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GCP0PPYTR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-1GCP0PPYTR');
-</script>
-# Soft Skills para Devs
+## Soft Skills para Devs
 
 Feliz ano novo!
 Tenho certeza de que  boa parte de vocês já tem suas resoluções prontas para 2024. Que tal adicionar Soft Skills a elas?
@@ -87,5 +79,3 @@ Lembre-se, dominar essas habilidades é a chave não apenas para construir softw
 Escolhi cinco para este artigo, que considero as mais importantes para os pessoa desenvolvedoras baseada em minha experiencia pessoal, mas há muitas outras nas quais você pode se concentrar se achar que já se da bem nas mencionadas.
 
 Escreva nos comentários: **Em qual delas você vai trabalhar no próximo ano?**
-
-
