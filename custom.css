@@ -14,7 +14,7 @@
 [data-theme=light],
 :root:not([data-theme=dark]) {
     --light-mode-green: #1aaf00; /* Verde mais escuro para light mode */
-    --pico-background-color: var(--light-gray);
+    --pico-background-color: #c9ffc9;
     --pico-card-background-color: #FFFFFF; /* Branco para cards */
     --pico-card-sectioning-background-color: var(--pico-background-color);
     --pico-primary: var(--light-mode-green);
