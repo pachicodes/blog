@@ -32,7 +32,7 @@
     --pico-h5-color: var(--near-black);
     --pico-h6-color: var(--near-black);
     --pico-muted-color: #555555; /* Cinza para texto muted */
-    --pico-code-background-color: #E0E0E0; /* Fundo cinza claro para código */
+    --pico-code-background-color: #c9ffc9;
     --pico-code-color: var(--near-black); /* Texto escuro para código */
     --pico-table-border-color: #DCDCDC; /* Borda cinza claro para tabelas */
     --pico-form-element-background-color: #FFFFFF;
