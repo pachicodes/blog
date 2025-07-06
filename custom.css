@@ -1,6 +1,9 @@
 /* Marmite Hard Theme */
-/* picocss.com variables */
+/* picocss.com variables - Aligned with main site */
 :root {
+    --light: #c9ffc9;
+    --dark: #011B10;
+    --accent: #1ad527;
     --pico-border-radius: 0;
     --neon-green: #39FF14; /* Verde Neon (usado no dark mode) */
     --light-gray: #F0F0F0; /* Cinza Claro */
@@ -13,31 +16,31 @@
 /* --- Light Mode --- */
 [data-theme=light],
 :root:not([data-theme=dark]) {
-    --light-mode-green: #1aaf00; /* Verde mais escuro para light mode */
-    --pico-background-color: #c9ffc9;
+    --light-mode-green: var(--accent); /* Usar a cor accent do site principal */
+    --pico-background-color: var(--light);
     --pico-card-background-color: #FFFFFF; /* Branco para cards */
     --pico-card-sectioning-background-color: var(--pico-background-color);
-    --pico-primary: var(--light-mode-green);
-    --pico-primary-hover: var(--light-mode-green); /* Manter a mesma cor no hover */
-    --pico-color: var(--near-black); /* Cor do texto principal */
-    --pico-secondary: var(--light-mode-green); /* Usar verde mais escuro para secundário também */
-    --pico-secondary-hover: var(--light-mode-green);
-    --pico-contrast: var(--near-black);
+    --pico-primary: var(--accent);
+    --pico-primary-hover: var(--accent); /* Manter a mesma cor no hover */
+    --pico-color: var(--dark); /* Usar cor dark do site principal */
+    --pico-secondary: var(--accent); /* Usar accent para secundário */
+    --pico-secondary-hover: var(--accent);
+    --pico-contrast: var(--dark);
     --pico-contrast-hover: var(--black);
-    --pico-tag: var(--near-black); /* Tags com texto escuro */
-    --pico-h1-color: var(--light-mode-green); /* Títulos em verde mais escuro */
-    --pico-h2-color: var(--light-mode-green); /* H2 também em verde mais escuro */
-    --pico-h3-color: var(--near-black);
-    --pico-h4-color: var(--near-black);
-    --pico-h5-color: var(--near-black);
-    --pico-h6-color: var(--near-black);
+    --pico-tag: var(--dark); /* Tags com texto escuro */
+    --pico-h1-color: var(--accent); /* Títulos em accent */
+    --pico-h2-color: var(--accent); /* H2 também em accent */
+    --pico-h3-color: var(--dark);
+    --pico-h4-color: var(--dark);
+    --pico-h5-color: var(--dark);
+    --pico-h6-color: var(--dark);
     --pico-muted-color: #555555; /* Cinza para texto muted */
-    --pico-code-background-color: #c9ffc9;
-    --pico-code-color: var(--near-black); /* Texto escuro para código */
+    --pico-code-background-color: var(--light);
+    --pico-code-color: var(--dark); /* Texto escuro para código */
     --pico-table-border-color: #DCDCDC; /* Borda cinza claro para tabelas */
     --pico-form-element-background-color: #FFFFFF;
     --pico-form-element-border-color: #DCDCDC;
-    --pico-form-element-focus-color: var(--light-mode-green); /* Foco em verde mais escuro */
+    --pico-form-element-focus-color: var(--accent); /* Foco em accent */
     --pico-color-azure-550: var(--pico-primary); /* Manter consistência */
 }
 
@@ -113,4 +116,65 @@
 [role=button]:hover, [role=button]:focus {
     --pico-background-color: var(--pico-primary-hover);
     --pico-border-color: var(--pico-primary-hover);
+}
+
+/* Additional consistency with main site */
+body {
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Roboto Mono', monospace;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Strong elements styling to match main site */
+strong {
+    background-color: var(--pico-primary);
+    color: var(--pico-card-background-color);
+    padding: 2px 4px;
+    transition: all 0.3s ease;
+}
+
+[data-theme=dark] strong {
+    background-color: var(--neon-green);
+    color: var(--black);
+}
+
+/* Links styling consistency */
+a {
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+[data-theme=dark] a {
+    color: var(--neon-green);
+}
+
+[data-theme=dark] a:hover {
+    background-color: var(--neon-green);
+    color: var(--black);
+}
+
+/* Improve readability and spacing */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Social icons styling if present */
+.social-icon {
+    width: 50px;
+    transition: all 0.3s ease;
+}
+
+[data-theme=dark] .social-icon {
+    filter: brightness(0) invert(1);
+    opacity: 0.8;
+}
+
+[data-theme=dark] .social-icon:hover {
+    filter: brightness(0) invert(1);
+    opacity: 1;
 }
