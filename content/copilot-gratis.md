@@ -2,7 +2,7 @@
 title: "GitHub Copilot Grátis: Como Usar o Plano Free em 2025"
 date: "2024-12-19"
 description: "GitHub Copilot agora é grátis! Aprenda a usar o Copilot Free com 2.000 sugestões de código e 50 mensagens de chat por mês no VS Code."
-tags: ["GitHub Copilot", "Copilot Free", "GitHub", "IA para Desenvolvedores", "Ferramentas Grátis", "VS Code", "Produtividade", "como usar GitHub Copilot", "Copilot tutorial"]
+tags: ["GitHub", "Inteligência Artificial", "Carreira"]
 ---
 
 # GitHub Copilot Grátis: Como Usar o Plano Free em 2025

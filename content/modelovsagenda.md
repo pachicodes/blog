@@ -1,7 +1,7 @@
 ---
 title: "Modelos de IA vs. Agentes de IA no GitHub Copilot"
 date: 2025-04-21
-tags: ["IA", "copilot", "agentes", "modelos"]
+tags: ["GitHub", "Inteligência Artificial"]
 description: "Entenda a diferença entre modelos e agentes de IA no contexto do GitHub Copilot e como eles impactam seu fluxo de trabalho."
 ---
 

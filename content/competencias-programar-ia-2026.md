@@ -2,7 +2,7 @@
 title: "3 Competências Essenciais para Programar com IA em 2026"
 date: "2025-12-08"
 description: "Descubra as 3 competências essenciais para se destacar como desenvolvedor na era da IA: engenharia de prompts, julgamento crítico e aprendizado contínuo. Prepare-se para o futuro da programação assistida por inteligência artificial."
-tags: ["Carreira em Tech", "Inteligência Artificial", "GitHub Copilot", "Engenharia de Prompts", "Futuro da Programação", "Habilidades Dev", "IA para Desenvolvedores", "Aprendizado Contínuo"]
+tags: ["Carreira", "Inteligência Artificial", "GitHub"]
 ---
 
 # 3 Competências Essenciais para Programar com IA em 2026

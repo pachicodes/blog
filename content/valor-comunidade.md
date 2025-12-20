@@ -2,7 +2,7 @@
 title: "O Valor de uma Comunidade: Seis Pilares Tangíveis para o Crescimento da sua Empresa"
 date: "2025-11-17"
 description: "Conheça os 6 pilares de valor de uma comunidade: redução de custos, retenção, insights e diferencial competitivo."
-tags: ["Comunidade", "Community ROI", "Retenção de Clientes", "Customer Success", "Community Building", "CAC", "valor de comunidade", "ROI comunidade", "estratégia de comunidade"]
+tags: ["Comunidade", "DevRel"]
 ---
 
 # O Valor de uma Comunidade: Seis Pilares Tangíveis para o Crescimento da sua Empresa

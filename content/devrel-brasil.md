@@ -2,7 +2,7 @@
 title: "O Que É DevRel? Entenda Developer Relations no Brasil"
 date: "2025-11-05"
 description: "Descubra o que é DevRel (Developer Relations) e seu cenário no Brasil. Entenda a diferença entre DevRel e marketing, os benefícios para empresas e desenvolvedores, e por que essa área é fundamental para o ecossistema tech brasileiro."
-tags: ["DevRel", "Developer Relations", "DevRel Brasil", "Developer Advocate", "Comunidade de Desenvolvedores", "Tech Brasil", "Developer Experience", "Community Building", "GitHub"]
+tags: ["DevRel", "Comunidade", "Carreira"]
 ---
 
 # O Que É DevRel? Entenda Developer Relations no Brasil

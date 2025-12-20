@@ -2,7 +2,7 @@
 title: "Melhores Práticas de Segurança com o GitHub Copilot"
 date: "2025-05-28"
 description: "Aprenda a usar o GitHub Copilot e ferramentas do GitHub para escrever código mais seguro. Descubra como evitar vulnerabilidades com Dependabot, CodeQL, Secret scanning e técnicas de segurança com IA."
-tags: ["GitHub Copilot", "Segurança", "Security", "CodeQL", "Dependabot", "DevSecOps", "Vulnerabilidades", "GitHub Security", "Boas Práticas"]
+tags: ["GitHub", "Inteligência Artificial"]
 ---
 
 # Melhores Práticas de Segurança com o GitHub Copilot

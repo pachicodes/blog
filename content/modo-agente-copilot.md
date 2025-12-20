@@ -2,7 +2,7 @@
 title: "Modo Agente do GitHub Copilot: O Que É e Como Usar"
 date: "2025-05-14"
 description: "Aprenda a usar o Modo Agente do GitHub Copilot para criar projetos completos e automatizar tarefas. Guia prático com exemplos."
-tags: ["GitHub Copilot", "Modo Agente", "AI Agents", "Copilot Agent Mode", "Automação", "como usar GitHub Copilot", "Copilot VS Code", "IA para Desenvolvedores"]
+tags: ["GitHub", "Inteligência Artificial", "Carreira"]
 ---
 
 # Modo Agente do GitHub Copilot: O Que É e Como Usar

@@ -2,7 +2,7 @@
 title: "Descomplicando a IA: Termos Fundamentais de Inteligência Artificial"
 date: "2025-08-08"
 description: "Entenda os principais termos de Inteligência Artificial de forma simples e direta. Aprenda o que é IA, Machine Learning, Deep Learning e Redes Neurais neste glossário essencial para desenvolvedores."
-tags: ["Inteligência Artificial", "Machine Learning", "Deep Learning", "Redes Neurais", "Glossário", "IA para Desenvolvedores", "Conceitos de IA", "Neural Networks"]
+tags: ["Inteligência Artificial"]
 ---
 
 # Descomplicando a IA: Termos Fundamentais de Inteligência Artificial

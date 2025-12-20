@@ -2,7 +2,7 @@
 title: "Métricas em DevRel: Como Medir o Sucesso da Sua Estratégia de Developer Relations"
 date: "2025-07-07"
 description: "Aprenda como medir o sucesso da sua estratégia de DevRel com métricas eficazes. Descubra KPIs essenciais, como comprovar ROI e conectar atividades de Developer Relations aos objetivos de negócio da sua empresa."
-tags: ["DevRel", "Métricas DevRel", "Developer Relations", "ROI", "KPI", "Analytics", "Community Metrics", "Developer Experience", "Engajamento de Desenvolvedores", "Data-Driven DevRel"]
+tags: ["DevRel", "Comunidade", "Carreira"]
 ---
 
 # Métricas em DevRel: Como Medir o Sucesso da Sua Estratégia de Developer Relations

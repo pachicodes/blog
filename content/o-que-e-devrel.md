@@ -2,7 +2,7 @@
 title: "O que é DevRel? Entenda o Papel do Developer Relations no Ecossistema Tech"
 date: "2025-06-16"
 description: "Descubra o que é DevRel (Developer Relations) e entenda seu papel essencial no ecossistema de tecnologia. Explore estratégias, benefícios e como construir relações fortes e duradouras com a comunidade de desenvolvedores."
-tags: ["DevRel", "Developer Relations", "Developer Advocacy", "Comunidade de Desenvolvedores", "Tech Community", "Developer Experience", "Community Management", "Developer Advocate", "Evangelismo Técnico"]
+tags: ["DevRel", "Comunidade", "Carreira"]
 ---
 
 # O que é DevRel? Entenda o Papel do Developer Relations no Ecossistema Tech

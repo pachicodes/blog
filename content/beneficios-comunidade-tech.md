@@ -2,7 +2,7 @@
 title: "Os Benefícios de Cultivar uma Comunidade Tech para Empresas de Tecnologia"
 date: "2025-04-05"
 description: "Descubra os 7 benefícios de uma comunidade tech: marca forte, adoção de produtos, feedback e inovação colaborativa."
-tags: ["Comunidade Tech", "Community Building", "Developer Community", "Community Management", "DevRel", "Engajamento de Desenvolvedores", "como criar comunidade tech", "benefícios comunidade"]
+tags: ["Comunidade", "DevRel"]
 ---
 
 # Os Benefícios de Cultivar uma Comunidade Tech para Empresas de Tecnologia

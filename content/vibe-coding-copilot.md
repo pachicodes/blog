@@ -2,7 +2,7 @@
 title: "O Que é Vibe Coding? Programando com GitHub Copilot"
 date: "2025-06-10"
 description: "Descubra o que é Vibe Coding e como usar GitHub Copilot para programar de forma criativa. Dicas para tirar projetos do papel."
-tags: ["Vibe Coding", "GitHub Copilot", "Produtividade", "Projetos Pessoais", "Agent Mode", "Programação Criativa", "o que é vibe coding", "programar com IA"]
+tags: ["GitHub", "Inteligência Artificial", "Carreira"]
 ---
 
 # O Que é Vibe Coding? Programando com GitHub Copilot 💻🎧💚

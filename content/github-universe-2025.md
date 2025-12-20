@@ -2,7 +2,7 @@
 title: "Novidades do GitHub Universe 2025"
 date: "2025-11-07"
 description: "Confira as principais novidades do GitHub Universe 2025: Agent HQ, Copilot integrado ao fluxo de trabalho, melhorias no VS Code, governança enterprise e muito mais. A nova era dos agentes de IA chegou!"
-tags: ["GitHub Universe", "GitHub Copilot", "Agent HQ", "AI Agents", "VS Code", "GitHub", "Novidades", "Developer Tools", "Enterprise", "MCP"]
+tags: ["GitHub", "Inteligência Artificial"]
 ---
 
 # Novidades do GitHub Universe 2025

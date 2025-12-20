@@ -1,7 +1,7 @@
 ---
 title: "Soft Skills para Desenvolvedores: Habilidades Essenciais em 2025"
 date: 2024-01-02
-tags: ["soft skills", "carreira", "habilidades programador", "comunicação", "trabalho em equipe", "carreira em tech", "desenvolvimento profissional"]
+tags: ["Carreira"]
 description: "Conheça as soft skills essenciais para desenvolvedores se destacarem na carreira: comunicação, trabalho em equipe e mais."
 ---
 

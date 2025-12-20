@@ -2,7 +2,7 @@
 title: "Conectando Git ao GitHub"
 date: "2024-12-04"
 description: "Aprenda a conectar o Git ao GitHub de forma simples e prática, com um passo a passo detalhado."
-tags: ["Git", "GitHub", "Controle de Versão", "Programação"]
+tags: ["GitHub"]
 ---
 
 ## Conectando Git ao GitHub

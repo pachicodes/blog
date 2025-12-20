@@ -2,7 +2,7 @@
 title: "O Que é DevRel? Minha Jornada em Developer Relations"
 date: "2024-09-14"
 description: "Descubra o que é DevRel e como essa carreira combina desenvolvimento com comunidades. Conheça responsabilidades e o futuro dessa área."
-tags: ["DevRel", "Developer Relations", "Carreira em Tech", "Comunidade de Desenvolvedores", "Developer Advocacy", "o que faz um Developer Advocate", "carreira DevRel", "Developer Experience"]
+tags: ["DevRel", "Comunidade", "Carreira"]
 ---
 
 # O Que é DevRel? Minha Jornada em Developer Relations
