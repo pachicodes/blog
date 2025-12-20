@@ -21,10 +21,6 @@ default_date_format: '%b %e, %Y'
 toc: true
 json_feed: true
 menu:
-- - /* Sobre
-  - about.html
-- - /* Projetos
-  - projects.html
 - - /* Tags
   - tags.html
 - - /* Arquivo 
