@@ -36,7 +36,7 @@ Empresas que investem em Developer Relations conseguem:
 
 ### Quem são os profissionais de DevRel?
 
-Os profissionais de Developer Relations geralmente atuam em papéis como **Developer Advocates** [link para seu artigo sobre Developer Advocates], Community Managers, Technical Evangelists e Tech Writers. Essas pessoas funcionam como uma ponte entre a empresa e a comunidade técnica, compartilhando conhecimento e representando os interesses dos desenvolvedores internamente.
+Os profissionais de Developer Relations geralmente atuam em papéis como **Developer Advocates**, Community Managers, Technical Evangelists e Tech Writers. Essas pessoas funcionam como uma ponte entre a empresa e a comunidade técnica, compartilhando conhecimento e representando os interesses dos desenvolvedores internamente.
 
 Um profissional de DevRel pode:
 
@@ -57,7 +57,7 @@ Um profissional de DevRel pode:
 
 Existem diversas estratégias que podem ser adotadas no DevRel, como:
 
--   **Conteúdo Educacional:** Criar blogs, webinars, vídeos tutoriais e documentações para ajudar as pessoas desenvolvedoras a usar a tecnologia da empresa [link para seu artigo sobre Conteúdo Educacional em DevRel].
+-   **Conteúdo Educacional:** Criar blogs, webinars, vídeos tutoriais e documentações para ajudar as pessoas desenvolvedoras a usar a tecnologia da empresa.
     
 -   [**Engajamento em Comunidades**](https://abacatedevrel.com.br/blog/os-beneficios-de-cultivar-uma-comunidade-tech-para-empresas-de-tecnologia)**:** Participar ativamente de fóruns, grupos de discussão e eventos da comunidade para ouvir o feedback e ajudar a resolver problemas.
     
