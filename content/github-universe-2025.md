@@ -11,7 +11,7 @@ O GitHub Universe é a conferência global anual onde o GitHub anuncia as princi
 
 Com a missão de **"Explorar as mais recentes ferramentas do GitHub que moldam o software agente e a escolha das pessoas desenvolvedoras"**, a conferência estabeleceu um novo marco, anunciando desde um centro de controle unificado para agentes até integrações profundas no fluxo de trabalho.
 
-E no post de hoje, vi trazer as novidades mais importantes anunciadas no evento:
+E no post de hoje, vou trazer as novidades mais importantes anunciadas no evento:
 
   
 ## 🤖 A Nova Era dos Agentes: Apresentando o Agent HQ

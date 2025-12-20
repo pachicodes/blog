@@ -8,7 +8,7 @@ tags: ["GitHub Copilot", "Inteligência Artificial", "IA", "LLM", "Agentes de IA
 # Modelos de IA vs. Agentes de IA no GitHub Copilot
 
 Você já deve ter lido vários artigos falando sobre como a Inteligência Artificial está avançando rapidamente, né? Dá até medo!  
-Mas hoje vm falar sobre como o **GitHub Copilot** exemplifica essa mudança ao combinar **modelos de IA** e **agentes de IA** para oferecer suporte prático no dia a dia de quem programa.  
+Mas hoje vou falar sobre como o **GitHub Copilot** exemplifica essa mudança ao combinar **modelos de IA** e **agentes de IA** para oferecer suporte prático no dia a dia de quem programa.  
 
 Mas qual a diferença entre esses conceitos? E como cada um pode impactar sua experiência de programação?
 
@@ -16,7 +16,7 @@ Mas qual a diferença entre esses conceitos? E como cada um pode impactar sua ex
 
 ## 1. Modelos de IA (LLMs – *Large Language Models*)
 
-Os modelos de IA são a espinha dorsal do Copilot, funcionando como um "assistente" capaz de compreender e gerar código. Seu poder vem da sua gradne base de conhecimento sobre programação, treinada para responder a comandos específicos.
+Os modelos de IA são a espinha dorsal do Copilot, funcionando como um "assistente" capaz de compreender e gerar código. Seu poder vem da sua grande base de conhecimento sobre programação, treinada para responder a comandos específicos.
 
 **Características:**
 - Conhecimento estático baseado em dados pré-treinados  

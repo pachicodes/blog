@@ -11,7 +11,7 @@ Se a ideia de adicionar diagramas  à sua documentação em Markdown no GitHub (
 
 Recentemente, lancei um projeto Open Source chamado [DevRel Roadmap](https://www.google.com/search?q=https://github.com/cami-la/devrel-roadmap), que reúne conteúdos educacionais sobre Developer Relations. Como a proposta é ensinar e orientar pessoas desenvolvedoras que querem entrar ou avançar na área, eu precisava de uma maneira leve, prática e bonita de organizar visualmente as informações. Foi exatamente aí que o Mermaid entrou na história.
 
-![driagrama roadmap devrel](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lq6yuabx4vtbgblt3jz2.png)
+![diagrama roadmap devrel](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lq6yuabx4vtbgblt3jz2.png)
 
 
 ----------
@@ -62,7 +62,7 @@ Tudo isso facilita a criação e manutenção de diagramas complexos como roadma
 
 ----------
 
-## Sugestões práticas para você começar a usr Mermaid
+## Sugestões práticas para você começar a usar Mermaid
 
 O Mermaid pode ser especialmente útil em contextos educacionais e técnicos, como acontece no [DevRel Roadmap](https://www.google.com/search?q=https://github.com/cami-la/devrel-roadmap).
 
