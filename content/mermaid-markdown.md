@@ -1,11 +1,11 @@
 ---
-title: "Adicionando Visuais no seu Markdown com Mermaid 🧜‍♀️"
+title: "Adicionando Visuais no seu Markdown com Mermaid"
 date: "2025-07-21"
 description: "Aprenda a criar diagramas profissionais direto no Markdown com Mermaid. Descubra como adicionar fluxogramas, gráficos e visuais interativos à sua documentação no GitHub sem ferramentas externas."
 tags: ["GitHub"]
 ---
 
-# Adicionando Visuais no seu Markdown com Mermaid 🧜‍♀️
+# Adicionando Visuais no seu Markdown com Mermaid
 
 Se a ideia de adicionar diagramas  à sua documentação em Markdown no GitHub (ou em qualquer outra plataforma) parece uma tarefa chata, você precisa conhecer o Mermaid! Com ele, você cria visuais profissionais diretamente no seu arquivo de texto.
 
@@ -85,4 +85,4 @@ Para começar, basta abrir um arquivo Markdown, criar um bloco de código e adic
 
 Experimente, explore a [Documentação Oficial do Mermaid](https://mermaid.js.org/) e, para inspiração real, confira como aplicamos esses conceitos no [DevRel Roadmap](https://www.google.com/search?q=https://github.com/cami-la/devrel-roadmap).
 
-Quanto mais acessível e visual for seu conteúdo, maior será o engajamento e a contribuição da sua comunidade. 🧜‍♀️✨
+Quanto mais acessível e visual for seu conteúdo, maior será o engajamento e a contribuição da sua comunidade.
