@@ -31,5 +31,5 @@ menu:
   - archive.html
 # - - ~/Streams
 #   - streams.html
-extra:
-  colorscheme: catppuccin 
+# extra:
+#   colorscheme: catppuccin

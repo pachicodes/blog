@@ -32,7 +32,11 @@ jobs:
         run: marmite . site --debug
 
       - name: Copy custom assets 📦
-        run: cp static/custom.css site/static/custom.css
+        run: |
+          cp static/custom.css site/static/custom.css
+          cp static/custom.js site/static/custom.js 2>/dev/null || true
+          cp static/favicon.ico site/static/favicon.ico 2>/dev/null || true
+          cp static/search.js site/static/search.js 2>/dev/null || true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
