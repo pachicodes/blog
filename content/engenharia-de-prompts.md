@@ -2,7 +2,7 @@
 title: "Desvendando a Comunicação com LLMs: O Poder da Engenharia de Prompts"
 date: "2025-06-09"
 description: "Aprenda engenharia de prompts e domine a comunicação com LLMs. Descubra como criar prompts eficazes, evitar erros comuns e otimizar suas interações com inteligência artificial para aumentar sua produtividade."
-tags: ["Inteligência Artificial", "GitHub", "Carreira"]
+tags: ["IA", "GitHub", "Carreira"]
 ---
 
 # Desvendando a Comunicação com LLMs: O Poder da Engenharia de Prompts

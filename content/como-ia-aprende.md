@@ -1,8 +1,8 @@
 ---
 title: "Descomplicando a IA: Como a IA Aprende"
 date: "2025-09-17"
-description: "Descubra como a Inteligência Artificial aprende na prática. Entenda o que são modelos, dados de treinamento, tokens e tipos de aprendizado (supervisionado e não supervisionado) neste glossário para desenvolvedores."
-tags: ["Inteligência Artificial"]
+description: "Descubra como a IA aprende na prática. Entenda o que são modelos, dados de treinamento, tokens e tipos de aprendizado (supervisionado e não supervisionado) neste glossário para desenvolvedores."
+tags: ["IA"]
 ---
 
 # Descomplicando a IA: Como a IA Aprende

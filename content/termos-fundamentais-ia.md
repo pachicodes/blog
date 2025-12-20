@@ -1,13 +1,13 @@
 ---
-title: "Descomplicando a IA: Termos Fundamentais de Inteligência Artificial"
+title: "Descomplicando a IA: Termos Fundamentais de IA"
 date: "2025-08-08"
-description: "Entenda os principais termos de Inteligência Artificial de forma simples e direta. Aprenda o que é IA, Machine Learning, Deep Learning e Redes Neurais neste glossário essencial para desenvolvedores."
-tags: ["Inteligência Artificial"]
+description: "Entenda os principais termos de IA de forma simples e direta. Aprenda o que é IA, Machine Learning, Deep Learning e Redes Neurais neste glossário essencial para desenvolvedores."
+tags: ["IA"]
 ---
 
-# Descomplicando a IA: Termos Fundamentais de Inteligência Artificial
+# Descomplicando a IA: Termos Fundamentais de IA
 
-Que Inteligência Artificial já não é papo de ficção científica você já sabe né?
+Que IA já não é papo de ficção científica você já sabe né?
 É até doido de pensar que até poucos anos atrás todo esse papo de IA era apenas algo que a gente imaginava. Hoje ela tá no nosso dia a dia, seja completando código, revisando _pull requests_ ou até sugerindo soluções que a gente nem imaginou. 
 E junto com essa revolução vem mais coisa pra gente aprender: **um monte de termos novos que às vezes parecem mais complicados que o código em si**.
 
@@ -20,7 +20,7 @@ Este é o primeiro post da série e nada melhor do que começar pela base: os co
 
 
 
-### **Inteligência Artificial (IA):** 
+### **IA (IA):** 
 É o guarda-chuva que cobre tudo. O campo da computação que tenta simular a inteligência humana — raciocínio, tomada de decisão, aprendizado. Dentro dele, estão áreas como **Machine Learning** e **Deep Learning**. 
 *(Sim, meus textos são revisado por IA então vai ter travessão sim — rs)*
 

@@ -2,7 +2,7 @@
 title: "Como Usar o GitHub Copilot para Debugar Código Mais Rápido"
 date: "2025-05-21"
 description: "Aprenda como usar o GitHub Copilot para debugar código mais rápido. Descubra comandos essenciais como /fix e /explain, técnicas de depuração no VS Code, pull requests e boas práticas para acelerar seu desenvolvimento."
-tags: ["GitHub", "Inteligência Artificial", "Carreira"]
+tags: ["GitHub", "IA", "Carreira"]
 ---
 
 # Como Usar o GitHub Copilot para Debugar Código Mais Rápido

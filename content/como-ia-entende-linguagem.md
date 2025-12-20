@@ -1,8 +1,8 @@
 ---
 title: "Descomplicando a IA: Como a IA Entende a Linguagem"
 date: "2025-09-30"
-description: "Descubra como a Inteligência Artificial entende a linguagem humana. Aprenda o que são NLP, LLMs, contexto e alucinações neste glossário essencial para desenvolvedores que trabalham com IA."
-tags: ["Inteligência Artificial"]
+description: "Descubra como a IA entende a linguagem humana. Aprenda o que são NLP, LLMs, contexto e alucinações neste glossário essencial para desenvolvedores que trabalham com IA."
+tags: ["IA"]
 ---
 
 # Descomplicando a IA: Como a IA Entende a Linguagem

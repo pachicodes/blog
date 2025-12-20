@@ -2,7 +2,7 @@
 title: "Entenda o MCP: O Protocolo que Liga LLMs a Dados e Ferramentas"
 date: "2025-07-03"
 description: "Descubra o que é o MCP (Model Context Protocol) e como ele conecta LLMs a dados e ferramentas externas. Entenda por que esse padrão aberto está revolucionando a forma como desenvolvemos aplicações de inteligência artificial."
-tags: ["Inteligência Artificial", "GitHub", "Open Source"]
+tags: ["IA", "GitHub", "Open Source"]
 ---
 
 # Entenda o MCP: O Protocolo que Liga LLMs a Dados e Ferramentas
