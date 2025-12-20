@@ -1,11 +1,11 @@
 ---
-title: "Uma Jornada em DevRel"
+title: "O Que é DevRel? Minha Jornada em Developer Relations"
 date: "2024-09-14"
-description: "Descubra o que é Developer Relations (DevRel) e como essa carreira combina desenvolvimento de software com construção de comunidades. Entenda as responsabilidades, benefícios e o futuro promissor dessa área estratégica na tecnologia."
-tags: ["DevRel", "Developer Relations", "Carreira em Tech", "Comunidade de Desenvolvedores", "Developer Advocacy", "Marketing para Desenvolvedores", "Criação de Conteúdo Técnico", "Developer Experience"]
+description: "Descubra o que é DevRel e como essa carreira combina desenvolvimento com comunidades. Conheça responsabilidades e o futuro dessa área."
+tags: ["DevRel", "Developer Relations", "Carreira em Tech", "Comunidade de Desenvolvedores", "Developer Advocacy", "o que faz um Developer Advocate", "carreira DevRel", "Developer Experience"]
 ---
 
-# Uma Jornada em DevRel
+# O Que é DevRel? Minha Jornada em Developer Relations
 Em 2020, enquanto buscava novas oportunidades como desenvolvedora, me deparei com um termo que me intrigou: Developer Relations (DevRel). Curiosa, mergulhei nesse universo e descobri uma área que conecta minha paixão por desenvolvimento com a possibilidade de construir comunidades e influenciar a relação do mercado com essas comunidades.
 
 A sensação era de que, de certa forma, já estava praticando DevRel como um hobby. Transmitir ao vivo na Twitch, escrever artigos em plataformas como Dev.to e FreeCodeCamp, e construir uma rede no Twitter me prepararam para essa nova jornada.

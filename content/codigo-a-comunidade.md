@@ -1,8 +1,8 @@
 ---
 title: "Do Código à Comunidade: Construindo Relacionamentos Duradouros com Devs"
 date: "2025-09-15"
-description: "Descubra como construir e gerenciar comunidades tech de sucesso. Aprenda estratégias para engajar desenvolvedores, fortalecer sua marca, impulsionar a inovação e transformar sua comunidade em um ativo estratégico para sua empresa."
-tags: ["Comunidade Tech", "Developer Community", "Community Management", "Engajamento de Desenvolvedores", "DevRel", "Community Building", "Inovação Colaborativa", "Tech Community"]
+description: "Aprenda a construir comunidades tech de sucesso. Estratégias para engajar desenvolvedores e fortalecer sua marca."
+tags: ["Comunidade Tech", "Developer Community", "Community Management", "Engajamento de Desenvolvedores", "DevRel", "Community Building", "como engajar desenvolvedores", "comunidade de desenvolvedores"]
 ---
 
 # Do Código à Comunidade: Construindo Relacionamentos Duradouros com Devs

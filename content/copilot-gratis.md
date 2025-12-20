@@ -1,11 +1,11 @@
 ---
-title: "Copilot Grátis? Temos!"
+title: "GitHub Copilot Grátis: Como Usar o Plano Free em 2025"
 date: "2024-12-19"
-description: "GitHub Copilot agora é grátis! Descubra como usar o Copilot Free com 2.000 sugestões de código e 50 mensagens de chat por mês. Aprenda a transformar sua produtividade como desenvolvedor com essa ferramenta de IA integrada ao VS Code."
-tags: ["GitHub Copilot", "Copilot Free", "GitHub", "IA para Desenvolvedores", "Ferramentas Grátis", "VS Code", "Produtividade", "AI Coding", "Developer Tools"]
+description: "GitHub Copilot agora é grátis! Aprenda a usar o Copilot Free com 2.000 sugestões de código e 50 mensagens de chat por mês no VS Code."
+tags: ["GitHub Copilot", "Copilot Free", "GitHub", "IA para Desenvolvedores", "Ferramentas Grátis", "VS Code", "Produtividade", "como usar GitHub Copilot", "Copilot tutorial"]
 ---
 
-# Copilot Grátis? Temos!
+# GitHub Copilot Grátis: Como Usar o Plano Free em 2025
 
 Se tem algo que o GitHub sempre fez bem é oferecer ferramentas e serviços gratuitos para a comunidade tech. Desde os tempos em que a plataforma era apenas para projetos open source e públicos, ela foi ganhando cada vez mais recursos: repositórios privados gratuitos, minutos no GitHub Actions e no Codespaces sem custo, e armazenamento para pacotes e releases. 
 E essa semana anunciaram mais uma novidade que vai deixar o nosso trabalho ainda mais produtivo: **o GitHub Copilot Free**.

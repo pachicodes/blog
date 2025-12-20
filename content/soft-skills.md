@@ -1,11 +1,11 @@
 ---
-title: "Soft Skills para Developers"
+title: "Soft Skills para Desenvolvedores: Habilidades Essenciais em 2025"
 date: 2024-01-02
-tags: ["soft skills", "carreira"]
-description: "Explore as soft skills essenciais que todo desenvolvedor deve dominar para se destacar em sua carreira."
+tags: ["soft skills", "carreira", "habilidades programador", "comunicação", "trabalho em equipe", "carreira em tech", "desenvolvimento profissional"]
+description: "Conheça as soft skills essenciais para desenvolvedores se destacarem na carreira: comunicação, trabalho em equipe e mais."
 ---
 
-## Soft Skills para Devs
+## Soft Skills para Desenvolvedores: Habilidades Essenciais
 
 Feliz ano novo!
 Tenho certeza de que  boa parte de vocês já tem suas resoluções prontas para 2024. Que tal adicionar Soft Skills a elas?
